@@ -1,0 +1,89 @@
+@font-face {
+	font-family:Open Sans;
+	src:url(../fonts/2211.ttf);
+}
+body{
+	 margin: 0 auto;
+	 font-family: 'Open Sans' ;
+}
+.verh{
+	margin: 50px;
+}
+.hh{width: 950px;
+	margin: 50px 50px 31px 50px;
+	font-size: 14.67px;
+	background: #5a5a5a;
+	height: 40px;
+	background-image: linear-gradient(#5d5d5d, #474646);
+	
+}
+a{
+	padding: 12px  43px ;
+color: white;
+text-decoration: none; /*нет подчеркивания в ссылках*/
+line-height:40px;
+}
+a:hover{
+	/*color: yellow; при наведении*/
+	background: #474747;
+}
+.twoin{
+	margin: 31px 50px;
+	width: 950px;
+}
+.leftme{
+	float:left;/*положение слева*/
+	/*margin: 0px 50px;*/
+	font-size: 13.3px;
+	width: 240px;
+	height: 629px;
+}
+.ptt:hover{
+	padding:  14px 36px;
+}
+.ptt{
+	
+	padding: 14px  25px;
+	color: #656363;
+	margin: 0;	
+	border: 1px solid #c8c8c8;
+}
+.rigyt{
+float:right;
+/*padding: 50px 95px;
+*//*border: 1px solid #c8c8c8;*/
+}
+.tttext{
+	font-size: 13.3px;
+	width: 629px;
+	height: 150px;
+	margin:  40px 0 0 50px; 
+	border: none;
+	line-height: 2 ;
+	/*letter-spacing:0.2px;*/
+
+}
+.idd {width: 950px;
+	margin: 713px 50px 31px 50px;
+	font-size: 14.67px;
+	background: 
+	#e1e1e1
+	;
+	height: 40px;
+color: black;
+}
+	a.ee{
+		color: black;
+
+ 
+	}
+	a.ee:hover{ text-decoration:underline;
+	background: 	none;
+	}
+	/*li:before {
+     content: "¶ ";  Добавляем желаемый символ перед элементом списка  
+   }*/
+.fmenu5{
+	float: right;
+	margin: 12 24px;
+}
